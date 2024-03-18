@@ -10,9 +10,9 @@ To use this scraper, you'll need Python installed on your system. Additionally, 
 ## Usage
 
 1. Ensure you have added the URLs of the Amazon product pages you want to scrape to the `product_urls` list in the script.
-2. Run the Python script `amazon_scraper.py`.
+2. Run the Python script `/scraping using n nos pf link.ipynb`.
 3. The script will scrape the specified product details from Amazon's website.
-4. The scraped data will be saved to a CSV file named `Amazon_Products.csv`.
+4. The scraped data will be saved to a CSV file named `Sleepyhug.csv`.
 
 ## Customization
 
